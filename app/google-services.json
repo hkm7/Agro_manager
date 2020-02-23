@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "507828307575",
+    "firebase_url": "https://agro-manager-96240.firebaseio.com",
+    "project_id": "agro-manager-96240",
+    "storage_bucket": "agro-manager-96240.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507828307575:android:8eb82cb20f3a1bd11ea872",
+        "android_client_info": {
+          "package_name": "com.hkm.agromanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507828307575-3kop4mm32pm96is2vks9lpm8v1d1svih.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hkm.agromanager",
+            "certificate_hash": "c3df77f6d335336e302d48e8ca8338b9076c6a11"
+          }
+        },
+        {
+          "client_id": "507828307575-nttbemqbrrcnfb63opdtrglmo5lt9p4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSBgLvltRKztrFOlYTGRopoMd3c8mZ0vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507828307575-nttbemqbrrcnfb63opdtrglmo5lt9p4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
